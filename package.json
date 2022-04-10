@@ -1,0 +1,13 @@
+{
+  "name": "sales-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front": "cd angular cd sales-order ng serve",
+    "back": "cd backend  nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
